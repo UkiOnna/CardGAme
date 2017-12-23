@@ -1,0 +1,6 @@
+c:\my documents\visual studio 2017\Projects\CardGame\CardGame\bin\Debug\CardGame.exe.config
+c:\my documents\visual studio 2017\Projects\CardGame\CardGame\bin\Debug\CardGame.exe
+c:\my documents\visual studio 2017\Projects\CardGame\CardGame\bin\Debug\CardGame.pdb
+c:\my documents\visual studio 2017\Projects\CardGame\CardGame\obj\Debug\CardGame.csprojResolveAssemblyReference.cache
+c:\my documents\visual studio 2017\Projects\CardGame\CardGame\obj\Debug\CardGame.exe
+c:\my documents\visual studio 2017\Projects\CardGame\CardGame\obj\Debug\CardGame.pdb
